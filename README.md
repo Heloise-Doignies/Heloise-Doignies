@@ -4,7 +4,7 @@
 🔭 En formation "développeuse-conceptrice d'applications" (Descodeuses)<br>🤝 A la recherche d'un stage de 6 mois pour septembre 2023<br>💬 En évolution pro : avant, je travaillais comme chargée de participation citoyenne<br>
 
 # 💫 In English please :
-🔭 In training "developer-designer of applications" (Descodeuses)<br>🤝 Looking for a 6-month internship for September 2023<br>💬 In professional evolution : I worked in a citizen participation's agency<br>
+🔭 In training "application developer" (Descodeuses)<br>🤝 Looking for a 6-month internship for September 2023<br>💬 In professional evolution : I used to work in a citizen participation's agency<br>
 
 ## 🌐 Réseaux sociaux / Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heloise-doignies/) 
